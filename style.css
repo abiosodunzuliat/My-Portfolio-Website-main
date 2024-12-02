@@ -134,7 +134,7 @@ html {
 .home {
     display: flex;
 
-    background-image: url("/images/images.jpg");
+    background-image: url("https://github.com/abiosodunzuliat/My-Portfolio-Website-main/blob/main/images.jpg");
 
     background-repeat: no-repeat;
     background-position: center;
